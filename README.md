@@ -1,2 +1,0 @@
-# bare
-Bare jekyll template
